@@ -18,3 +18,8 @@ function inc(n) {
   parseInt(n + 1)
   return n + 1
 }
+
+function dec(n) {
+  parseInt(n - 1)
+  return n - 1
+}
